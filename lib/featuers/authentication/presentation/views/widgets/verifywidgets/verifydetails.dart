@@ -135,7 +135,7 @@ class _VerifydetailsState extends State<Verifydetails> {
                           color: Color(0xFF20473E),
                           child: Center(
                               child: Text(
-                            'Reset Password',
+                            'Verify',
                             style: TextStyle(
                               color: Colors.white,
                               fontSize: 14,
